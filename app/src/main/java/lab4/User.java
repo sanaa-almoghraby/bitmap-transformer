@@ -2,7 +2,7 @@ package lab4;
 
 import java.util.Scanner;
 
-public class Userinput {
+public class User {
     private static final int EXIT = 0;
     private static int transformerChoice;
     private static String fileToManipulate;
